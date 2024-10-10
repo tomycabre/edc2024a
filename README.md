@@ -8,7 +8,6 @@
 4. [Usage](#usage)
 5. [Contributing](#contributing)
 6. [License](#license)
-7. [Contact](#contact)
 
 ## Introduction
 
@@ -18,8 +17,10 @@
 
 ## Usage
 
-## Contributing
+## Contributions
+
+We welcome contributions! Please open issues or submit pull requests.
 
 ## License
 
-## Contact
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
